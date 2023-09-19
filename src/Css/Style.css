@@ -1,0 +1,14 @@
+nav {
+    padding: 15px 20px !important;
+    background: #fff !important;
+}
+#navbarSupportedContent a{
+    padding: 8px 16px;
+}
+h6.subtitle {
+    color: #b99d75;
+    font-size: 14px;
+    text-align: center;
+    font-family: Jost, sans-serif;
+    font-weight: 500;
+}
